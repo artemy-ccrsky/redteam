@@ -1,6 +1,6 @@
 Helpful linux privilege escalation tips
 
-Automated Tools List:</br>
+<h2>Automated Tools List: </h2></br>
 LinPeas: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS </br>
     LinEnum: https://github.com/rebootuser/LinEnum </br>
     LES (Linux Exploit Suggester): https://github.com/mzet-/linux-exploit-suggester </br>
