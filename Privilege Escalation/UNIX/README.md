@@ -9,3 +9,5 @@ LinPeas: https://github.com/carlospolop/privilege-escalation-awesome-scripts-sui
 
 <h2>Using bin:</h2>
 GTFOBins: https://gtfobins.github.io/
+
+<h2> Using cron jobs </h2>
