@@ -6,3 +6,5 @@ LinPeas: https://github.com/carlospolop/privilege-escalation-awesome-scripts-sui
     LES (Linux Exploit Suggester): https://github.com/mzet-/linux-exploit-suggester </br>
     Linux Smart Enumeration: https://github.com/diego-treitos/linux-smart-enumeration </br>
     Linux Priv Checker: https://github.com/linted/linuxprivchecker </br>
+
+GTFOBins: https://gtfobins.github.io/
