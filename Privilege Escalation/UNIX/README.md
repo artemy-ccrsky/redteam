@@ -11,3 +11,4 @@ LinPeas: https://github.com/carlospolop/privilege-escalation-awesome-scripts-sui
 GTFOBins: https://gtfobins.github.io/
 
 <h2> Using cron jobs </h2>
+cat /etc/crontab
