@@ -7,4 +7,5 @@ LinPeas: https://github.com/carlospolop/privilege-escalation-awesome-scripts-sui
     Linux Smart Enumeration: https://github.com/diego-treitos/linux-smart-enumeration </br>
     Linux Priv Checker: https://github.com/linted/linuxprivchecker </br>
 
+<h2>Using bin:</h2>
 GTFOBins: https://gtfobins.github.io/
