@@ -24,3 +24,6 @@ On the other hand, if you prefer to increase the size of your packets to make th
 ## Idle/Zombie scan:
 
 ```nmap -sI ZOMBIE_IP 10.10.27.241```
+
+# Nmap Post Port Scan:
+
