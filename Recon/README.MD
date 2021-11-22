@@ -2,21 +2,6 @@
 Getting more details ```--reason```, ```-v```, ```-vv```
 Debugging details: ```-d```, ```-dd```
 
-Port Scan Type 	Example Command
-TCP Null Scan 	```sudo nmap -sN 10.10.141.92```
-TCP FIN Scan 	```sudo nmap -sF 10.10.141.92```
-TCP Xmas Scan 	```sudo nmap -sX 10.10.141.92```
-TCP Maimon Scan 	````sudo nmap -sM 10.10.141.92```
-TCP ACK Scan 	```sudo nmap -sA 10.10.141.92```
-TCP Window Scan 	```sudo nmap -sW 10.10.141.92```
-Custom TCP Scan 	```sudo nmap --scanflags URGACKPSHRSTSYNFIN 10.10.141.92```
-Spoofed Source IP 	```sudo nmap -S SPOOFED_IP 10.10.141.92```
-Spoofed MAC Address 	```--spoof-mac SPOOFED_MAC```
-Decoy Scan 	```nmap -D DECOY_IP,ME 10.10.141.92```
-Idle (Zombie) ```Scan 	sudo nmap -sI ZOMBIE_IP 10.10.141.92```
-Fragment IP data into 8 bytes 	```-f```
-Fragment IP data into 16 bytes 	```-ff```
-
 ## Spoofing and Decoys:
 ```nmap -S SPOOFED_IP MACHINE_IP```
 
